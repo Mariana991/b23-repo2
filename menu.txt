@@ -8,6 +8,11 @@ Ice cream     1.99
 Milk Shake     3.99
 
 Lunch menu:
-smoothie
-cooked potato
-hot tea
+smoothie       3.99
+cooked potato      2.99
+hot tea        1.99
+
+Burger    5.99
+Veggie bowl   4.99
+burritos     3.99
+
