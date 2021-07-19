@@ -6,3 +6,7 @@ Cappuccino   2.99
 
 Ice cream     1.99
 Milk Shake     3.99
+
+Lunch menu:
+smoothie
+cooked potato
