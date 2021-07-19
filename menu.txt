@@ -10,3 +10,4 @@ Milk Shake     3.99
 Lunch menu:
 smoothie
 cooked potato
+hot tea
